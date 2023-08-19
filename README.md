@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/@aryan_544" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aryan_544" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aryanraj544" target="blank"><img align="center" src="https://img.freepik.com/free-vector/instagram-vector-social-media-icon-7-june-2021-bangkok-thailand_53876-136728.jpg?w=740&t=st=1692454699~exp=1692455299~hmac=21108c3e696f22d16caa59fcad3f79779d2936817079e0234839222c3ea35001" alt="aryanraj544" height="30" width="40" /></a>
-<a href="https://instagram.com/__aryan__0504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__aryan__0504" height="30" width="40" /></a>
+<a href="https://instagram.com/__aryan__0504" target="blank"><img align="center" src="https://img.freepik.com/free-vector/instagram-vector-social-media-icon-7-june-2021-bangkok-thailand_53876-136728.jpg?w=740&t=st=1692454699~exp=1692455299~hmac=21108c3e696f22d16caa59fcad3f79779d2936817079e0234839222c3ea35001" alt="__aryan__0504" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/aryanraj1572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aryanraj1572" height="30" width="40" /></a>
 </p>
 
