@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Raj</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanraj-544&label=Profile%20views&color=fbff24&style=plastic" alt="aryanraj-544" height="10" width="100" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanraj-544&label=Profile%20views&color=fbff24&style=plastic" alt="aryanraj-544" height="20" width="150" /> </p>
 
 - 💬 Ask me about **Data Science, Statistics, Analytics, Python, Machine Learning**
 
